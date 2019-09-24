@@ -1,32 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ID569\\documents\\C#Code\\Calculadora\\CalculadoraMVC\\MVC.csproj": {}
+    "C:\\Users\\Camilo\\Documents\\camilo\\CalculadoraMVC\\MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ID569\\documents\\C#Code\\Calculadora\\CalculadoraMVC\\MVC.csproj": {
+    "C:\\Users\\Camilo\\Documents\\camilo\\CalculadoraMVC\\MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ID569\\documents\\C#Code\\Calculadora\\CalculadoraMVC\\MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Camilo\\Documents\\camilo\\CalculadoraMVC\\MVC.csproj",
         "projectName": "MVC",
-        "projectPath": "C:\\Users\\ID569\\documents\\C#Code\\Calculadora\\CalculadoraMVC\\MVC.csproj",
-        "packagesPath": "C:\\Users\\ID569\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ID569\\documents\\C#Code\\Calculadora\\CalculadoraMVC\\obj\\",
+        "projectPath": "C:\\Users\\Camilo\\Documents\\camilo\\CalculadoraMVC\\MVC.csproj",
+        "packagesPath": "C:\\Users\\Camilo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Camilo\\Documents\\camilo\\CalculadoraMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ID569\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Camilo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -24,5 +24,10 @@ namespace MVC.Controllers
             return View();
         }
 
+                public IActionResult Multiplicacion()
+        {
+            return View();
+        }
+
     }
 }
