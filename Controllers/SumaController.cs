@@ -19,6 +19,10 @@ namespace MVC.Controllers
         {
             return "Hola";
         }
+        public IActionResult Resta()
+        {
+            return View();
+        }
 
     }
 }
