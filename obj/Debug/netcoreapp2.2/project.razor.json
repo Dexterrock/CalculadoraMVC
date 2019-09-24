@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\ID569\\documents\\C#Code\\Calculadora\\CalculadoraMVC\\MVC.csproj",
+  "FilePath": "c:\\Users\\Diego\\Documents\\ope\\CalculadoraMVC\\MVC.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2996,6 +2996,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Suma\\Division.cshtml",
+      "TargetPath": "Views\\Suma\\Division.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -3003,6 +3008,11 @@
     {
       "FilePath": "Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Suma\\Multiplicacion.cshtml",
+      "TargetPath": "Views\\Suma\\Multiplicacion.cshtml",
       "FileKind": "mvc"
     },
     {

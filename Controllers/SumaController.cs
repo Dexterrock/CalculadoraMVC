@@ -29,5 +29,11 @@ namespace MVC.Controllers
             return View();
         }
 
+        
+                public IActionResult Division()
+        {
+            return View();
+        }
+
     }
 }
